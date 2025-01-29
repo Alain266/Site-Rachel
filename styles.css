@@ -2,7 +2,7 @@
 body {
     margin: 0;
     font-family: 'DM Sans', sans-serif;
-    background-image: url('/assets/images/background.jpg');
+    background-image: url('assets/images/background.jpg');
     background-size: cover;
     background-position: center;
     color: #ffffff;

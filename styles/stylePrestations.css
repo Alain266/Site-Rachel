@@ -9,7 +9,7 @@ body {
     font-variation-settings:
     "SOFT" 0,
     "WONK" 0;
-    background-image: url('assets/images/background-prestations.jpg');
+    background-image: url('assets/images/background.jpg:');
     background-size: cover;
     background-position: center;
     color: #ffffff;
@@ -116,6 +116,11 @@ section {
 }
 
 footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    margin-top: 2em;
     text-align: center;
     font-size: medium;
     padding: 20px;
